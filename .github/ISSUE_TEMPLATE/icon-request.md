@@ -2,7 +2,7 @@
 name: Icon Request
 about: Request the design of a new icon
 title: "[Icon Request] -"
-labels: icon
+labels: Design
 assignees: lindameijer
 
 ---
